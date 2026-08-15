@@ -1,6 +1,6 @@
 Dominos_Sales_Analysis.sql
-SQL analysis of Domino's sales data using 15 business questions
-SQL_Queries/
+SQL analysis of Domino's sales data using 15 business questions SQL_Queries/
+
 Beginner
 1. Calculate the total revenue.sql
 2. Find the total number of orders.sql
