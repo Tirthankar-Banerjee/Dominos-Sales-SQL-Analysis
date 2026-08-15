@@ -1,23 +1,62 @@
-Dominos_Sales_Analysis.sql
-SQL analysis of Domino's sales data using 15 business questions SQL_Queries/
+# Domino's Sales Analysis using SQL
 
-Beginner
-1. Calculate the total revenue.sql
-2. Find the total number of orders.sql
-3. Find the total number of customers.sql
-4. Calculate the average order value.sql
-5. Find the total quantity of pizzas sold.sql
+## Project Overview
 
-Intermediate
-6. Which city generated the highest revenue?.sql
-7. Which store generated the highest revenue?.sql
-8. Which pizza generated the highest revenue?.sql
-9. Which pizza category sold the most?.sql
-10. Which payment method is used most frequently?.sql
+This project analyzes Domino's sales data using SQL.
 
-Advanced
-11. Find the top 5 customers based on total spending.sql
-12. Find monthly sales trends.sql
-13. Rank stores based on total revenue.sql
-14. Find the 2nd highest revenue-generating pizza.sql
-15. Calculate each city's percentage contribution to total revenue.sql
+The project contains 15 business questions, from basic to advanced SQL analysis.
+
+## Tools Used
+
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- GitHub
+
+## SQL Concepts Used
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- JOIN
+- Aggregate Functions
+- CTE
+- Subquery
+- Window Functions
+- DENSE_RANK
+- LAG
+- CASE
+
+## Business Questions
+
+### Beginner
+
+1. Calculate the total revenue.
+2. Find the total number of orders.
+3. Find the total number of customers.
+4. Calculate the average order value.
+5. Find the total quantity of pizzas sold.
+
+### Intermediate
+
+6. Which city generated the highest revenue?
+7. Which store generated the highest revenue?
+8. Which pizza generated the highest revenue?
+9. Which pizza category sold the most?
+10. Which payment method is used most frequently?
+
+### Advanced
+
+11. Find the top 5 customers based on total spending.
+12. Find monthly sales trends.
+13. Rank stores based on total revenue.
+14. Find the 2nd highest revenue-generating pizza.
+15. Calculate each city's percentage contribution to total revenue.
+
+## Project Objective
+
+The main objective of this project is to analyze sales data and identify important business insights such as revenue, customer spending, product performance, sales trends, and store performance.
+
+## Conclusion
+
+This project helped me practice SQL and apply SQL concepts to real-world business questions.
